@@ -1,0 +1,56 @@
+id_producto,nombre,categoria,precio_cop,stock
+PROD-001,Pulpo Amigurumi Tejido, Amigurumi ,$ 35000,15
+PROD-002,Gorro de Lana Invierno,Prendas,$45.000,10
+PROD-003,Manta Crochet Manta,Hogar,$120.000,8
+PROD-004,Oso de Peluche Tejido,amigurumi,$50000,20
+PROD-005,Bufanda Crochet Artesanal, PRENDAS ,$38.000,12
+PROD-006,Cojin Decorativo Tejido,HOGAR,$65000,5
+PROD-007,Llavero Aguacate Tejido,Amigurumi,$ 15000,30
+PROD-008,Chaleco Crochet Clasico,Prendas,,7
+PROD-009,Posavasos Flor Crochet, hogar ,$ 12000,25
+PROD-010,Muñeca Frida Amigurumi,AMIGURUMI,$ 55000,14
+PROD-011,Top de Verano Tejido,prendas,$42000,9
+PROD-012,Camino de Mesa Crochet,Hogar,$85.000,6
+PROD-013,Cactus Amigurumi Maceta,Amigurumi,$28.000,18
+PROD-014,Guantes de Lana Tejidos, Prendas ,$25000,11
+PROD-015,Cesta Organizadora Tejida,Hogar,,10
+PROD-016,Dinosaurio Amigurumi,amigurumi,$48.000,16
+PROD-017,Sueter Tejido Oversize,PRENDAS,$95000,4
+PROD-018,Tapete Circular Crochet,HOGAR,$110000,3
+PROD-019,Conejo Amigurumi Orejon, Amigurumi ,$ 39000,22
+PROD-020,Cardigan Tejido Botones,Prendas,$88000,5
+PROD-021,Funda para Taza Crochet,hogar,$10.000,40
+PROD-022,Girasol Tejido Maceta,Amigurumi,$ 32000,17
+PROD-023,Poncho Artesanal Lana,prendas,$75000,8
+PROD-024,Cortina Crochet Elegante,Hogar,$150.000,2
+PROD-025,Gato Amigurumi Dormilón,AMIGURUMI,$ 42000,13
+PROD-026,Boina Tejida Francesa, Prendas ,$30000,15
+PROD-027,Agarradera de Cocina,hogar,$14.000,28
+PROD-028,Perrito Caniche Tejido,Amigurumi,,10
+PROD-029,Mitones Tejidos Sin Dedos,Prendas,$22.000,19
+PROD-030,Cojin Estrella Crochet,HOGAR,$58000,7
+PROD-031,Zorrito Amigurumi Bosque,amigurumi,$37.000,14
+PROD-032,Saco Tejido Cuello Alto,PRENDAS,$105000,6
+PROD-033,Manteles Individuales x4,Hogar,$48.000,12
+PROD-034,Tortuga Amigurumi Mar, Amigurumi ,$26000,21
+PROD-035,Gorro Beanie Tejido,prendas,$34000,16
+PROD-036,Organizador de Pared Crochet,hogar,$52.000,8
+PROD-037,Abeja Amigurumi Tierna,AMIGURUMI,$ 24000,25
+PROD-038,Chal Tejido a Mano,Prendas,$68000,7
+PROD-039,Atrapasueños Crochet,HOGAR,$45.000,11
+PROD-040,Búho Amigurumi Sabio,Amigurumi,$36.000,15
+PROD-041,Ruana Colombiana Tejida, PRENDAS ,$115000,4
+PROD-042,Funda de Cojín Texturizada,Hogar,$62000,9
+PROD-043,Unicornio Amigurumi,amigurumi,$54.000,8
+PROD-044,Zapatos de Bebé Tejidos,prendas,$ 28000,20
+PROD-045,Toalla con Borde Crochet,hogar,$ 32000,14
+PROD-046,Perezoso Amigurumi,AMIGURUMI,$ 46000,10
+PROD-047,Kimono Tejido Verano,Prendas,,5
+PROD-048,Cesta Colgante Plantas,HOGAR,$38.000,13
+PROD-049,Pingüino Amigurumi, Amigurumi ,$31000,18
+PROD-050,Capota Tejida Bebé,prendas,$26000,17
+PROD-051,Portavasos Frutas x6,hogar,$20.000,30
+PROD-052,Elefante Amigurumi,Amigurumi,$49.000,12
+PROD-053,Vestido Tejido Crochet,PRENDAS,$130.000,3
+PROD-054,Pie de Cama Tejido,Hogar,$140000,2
+PROD-055,Koala Amigurumi,amigurumi,$38000,16

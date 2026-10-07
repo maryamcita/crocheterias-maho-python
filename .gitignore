@@ -1,0 +1,19 @@
+# Entorno Virtual Python
+venv/
+ENV/
+env/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Archivos del sistema y del editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Archivos de configuración local y credenciales
+.env
