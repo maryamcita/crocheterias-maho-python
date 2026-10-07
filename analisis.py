@@ -1,3 +1,4 @@
+# Este archivo contiene el análisis de los datos del proyecto
 """
 Script Principal de Análisis de Datos — Crocheterias Maho
 Carga los archivos de datos (productos.csv y pedidos.csv), aplica las funciones de preprocesamiento,
